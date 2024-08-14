@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "temp"
+version = "0.1.0"
+description = ""
+authors = ["ankeshkmr2010 <ankeshkmr2010@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+selenium = "^4.23.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
